@@ -44,6 +44,14 @@ Customer churn prediction is a critical task for subscription-based businesses. 
 
 ## 📊 Model Evaluation Results
 
+## 🖥️ R Console Execution Output
+
+![R Console Output](images/r_console_output.jpeg)
+
+This confirms successful execution of the script and correct loading of required packages.
+
+---
+
 ### Confusion Matrix & Performance Metrics
 
 ![Confusion Matrix Output](images/confusion_matrix.jpeg)
@@ -54,14 +62,6 @@ Customer churn prediction is a critical task for subscription-based businesses. 
 - Sensitivity: **90.80%**
 - Specificity: **56.07%**
 - Kappa: **0.4995**
-
----
-
-## 🖥️ R Console Execution Output
-
-![R Console Output](images/r_console_output.jpeg)
-
-This confirms successful execution of the script and correct loading of required packages.
 
 ---
 
